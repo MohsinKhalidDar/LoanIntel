@@ -81,7 +81,7 @@ Model Training & Evaluation
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/LoanIntel.git
+git clone https://github.com/MohsinKhalidDa/LoanIntel.git
 cd LoanIntel
 
 # 2. Install dependencies
