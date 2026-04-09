@@ -125,9 +125,4 @@ LoanIntel/
 - [ ] Integrate SHAP values for prediction explainability
 - [ ] Add user authentication for bank officer access
 
----
-
-## 👤 Author
-
-**Mohsin** — ML Engineering Minor Project  
 Built with Python, Scikit-learn, and Streamlit
