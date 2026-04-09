@@ -93,15 +93,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Streamlit Deployment
-
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub account
-4. Select this repo → `app.py` → Deploy
-
----
-
 ## 📁 Project Structure
 
 ```
