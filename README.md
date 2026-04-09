@@ -11,7 +11,7 @@
 
 ## 📌 Problem Statement
 
-CreditWise Bank receives hundreds of loan applications daily. Manual verification is slow, inconsistent, and prone to bias — leading to two business problems:
+Bank receives hundreds of loan applications daily. Manual verification is slow, inconsistent, and prone to bias — leading to two business problems:
 - ❌ Good customers get rejected → loss of business
 - ❌ Risky customers get approved → financial losses
 
