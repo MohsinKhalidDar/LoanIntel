@@ -124,5 +124,3 @@ LoanIntel/
 - [ ] Add cross-validation (K-Fold)
 - [ ] Integrate SHAP values for prediction explainability
 - [ ] Add user authentication for bank officer access
-
-Built with Python, Scikit-learn, and Streamlit
